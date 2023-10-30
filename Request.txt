@@ -1,0 +1,5 @@
+{
+    "to": "test@gmail.com",
+    "subject": "Congratulation",
+    "body": "This Mail is Regarding you are selected for the Post of Software Engineer"
+}
